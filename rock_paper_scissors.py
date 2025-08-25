@@ -52,7 +52,7 @@ while True:
 
 
 print(" You Win ",user_wins," times .")
-print("computer win ",computer_wins,"times  .")
+print("Computer win ",computer_wins,"times  .")
 
 
 

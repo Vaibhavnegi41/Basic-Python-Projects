@@ -1,8 +1,8 @@
 from playsound import playsound
 import time
 
-CLEAR="\033[2J" #IT CAN CLEAR THE TERMINAL AND THEN EXECUTE WANT YOU WANT 
-CLEAR_AND_RETURN="\033[H" #if we want to execute something after and after like a clock ticking and we use it
+CLEAR="\033[2J" #IT CAN CLEAR THE TERMINAL AND THEN EXECUTE WHAT YOU WANT 
+CLEAR_AND_RETURN="\033[H" #if we want to execute something after and after like a clock ticking then we use it
 
 
 def alarm(seconds):
